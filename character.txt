@@ -1,0 +1,6 @@
+name=DUNAISE
+image=avatar.jpg
+author=longzilin&BQSG
+
+
+Version: 1.0.0
